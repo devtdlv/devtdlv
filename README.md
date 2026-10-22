@@ -36,36 +36,12 @@ Somewhere between Tony Stark's overconfidence and Monkey D. Luffy's unstoppable 
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td>
-      <h3><a href="https://github.com/devtdlv/milestone">Milestone</a></h3>
-      <p>Multi-tenant project management with Kanban boards, task tracking, and analytics.</p>
-      <p><sub>Next.js · TypeScript · PostgreSQL · Prisma</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3><a href="https://github.com/devtdlv/alias">Alias</a></h3>
-      <p>URL shortening and link analytics with custom aliases, click tracking, and QR codes.</p>
-      <p><sub>Next.js · TypeScript · PostgreSQL</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3><a href="https://github.com/devtdlv/restock">ReStock</a></h3>
-      <p>Inventory management with stock tracking, purchase orders, reporting, and audit logs.</p>
-      <p><sub>Laravel 12 · Livewire 4 · PHP</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3><a href="https://github.com/devtdlv/junction">Junction</a></h3>
-      <p>Local-first Windows desktop toolkit for folder scanning, safe file organization, duplicate detection, and bulk renaming. <em>In active development.</em></p>
-      <p><sub>Python · PySide6 · SQLite</sub></p>
-    </td>
-  </tr>
-</table>
+| Project | What it does | Built with |
+|---|---|---|
+| [**Milestone**](https://github.com/devtdlv/milestone) | Multi-tenant project management with Kanban boards, task tracking, and analytics | Next.js · TypeScript · PostgreSQL · Prisma |
+| [**Alias**](https://github.com/devtdlv/alias) | URL shortening and link analytics with custom aliases, click tracking, and QR codes | Next.js · TypeScript · PostgreSQL |
+| [**ReStock**](https://github.com/devtdlv/restock) | Inventory management with stock tracking, purchase orders, reporting, and audit logs | Laravel 12 · Livewire 4 · PHP |
+| [**Junction**](https://github.com/devtdlv/junction) | Local-first Windows desktop toolkit for folder scanning, safe file organization, duplicate detection, and bulk renaming *(in active development)* | Python · PySide6 · SQLite |
 
 ## 📊 GitHub Stats
 
