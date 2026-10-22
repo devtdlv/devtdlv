@@ -24,7 +24,9 @@ Somewhere between Tony Stark's overconfidence and Monkey D. Luffy's unstoppable 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=FFDD54)
+![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=flat&logo=qt&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
@@ -34,14 +36,32 @@ Somewhere between Tony Stark's overconfidence and Monkey D. Luffy's unstoppable 
 
 ## 🚀 Featured Projects
 
-| Project | What it does | Built with |
-|---|---|---|
-| [**Taskora**](https://github.com/devtdlv/taskora) | Modern project management SaaS | Next.js · TypeScript · Prisma · Tailwind |
-| [**Knight CRM**](https://github.com/devtdlv/knight-crm) | Lightweight CRM for freelancers: leads, client notes, tasks, reminders, CSV export | Laravel · Livewire · Tailwind |
-| [**Baphomet Invoicer**](https://github.com/devtdlv/baphomet-invoicer) | Invoicing and quoting with PDF generation, payments, client portals and status tracking | Laravel · Stripe · DomPDF |
-| [**Orc Inventory**](https://github.com/devtdlv/orc-inventory) | Inventory for tools and consumables: barcodes, stock levels, maintenance logs, equipment lending | Laravel |
-| [**Bard Courses**](https://github.com/devtdlv/bard-courses) | Learning platform: courses, lessons, progress tracking and discussions | Laravel |
-| [**Alchemist Forge**](https://github.com/devtdlv/alchemist-forge) | Developer utility API: slugs, image processing, QR codes, currency/timezone tools, random data | Laravel · SQLite |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/devtdlv/milestone">Milestone</a></h3>
+      <p>Multi-tenant project management with Kanban boards, task tracking, and analytics.</p>
+      <p><sub>Next.js · TypeScript · PostgreSQL · Prisma</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/devtdlv/alias">Alias</a></h3>
+      <p>URL shortening and link analytics with custom aliases, click tracking, and QR codes.</p>
+      <p><sub>Next.js · TypeScript · PostgreSQL</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/devtdlv/restock">ReStock</a></h3>
+      <p>Inventory management with stock tracking, purchase orders, reporting, and audit logs.</p>
+      <p><sub>Laravel 12 · Livewire 4 · PHP</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/devtdlv/junction">Junction</a></h3>
+      <p>Local-first Windows desktop toolkit for folder scanning, safe file organization, duplicate detection, and bulk renaming. <em>In active development.</em></p>
+      <p><sub>Python · PySide6 · SQLite</sub></p>
+    </td>
+  </tr>
+</table>
 
 ## 📊 GitHub Stats
 
