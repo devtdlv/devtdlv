@@ -47,7 +47,5 @@ Somewhere between Tony Stark's overconfidence and Monkey D. Luffy's unstoppable 
 
 ## 📊 GitHub Stats
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devtdlv&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devtdlv&theme=codeSTACKr&hide_border=true&count_private=true&layout=compact" alt="Top languages" />
-</p>
+<!-- Generated daily by .github/workflows/metrics.yml into the "metrics" branch -->
+<img src="https://raw.githubusercontent.com/devtdlv/devtdlv/metrics/github-metrics.svg" alt="GitHub activity, languages and contributions" />
