@@ -24,6 +24,7 @@ jobs:
           template: classic
           base: header, activity, repositories
           config_timezone: Asia/Manila
+          plugin_languages: yes # test: repository totals seem to need this
       # Right: languages and contribution calendar
       - uses: lowlighter/metrics@latest
         with:
