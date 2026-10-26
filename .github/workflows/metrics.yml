@@ -5,6 +5,7 @@ name: Metrics
 on:
   schedule: [{cron: "0 16 * * *"}] # daily, 12:00 AM Manila time
   workflow_dispatch:
+  push: {branches: [main], paths: [".github/workflows/metrics.yml"]} # also re-run when this file changes
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
