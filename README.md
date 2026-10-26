@@ -48,4 +48,7 @@ Somewhere between Tony Stark's overconfidence and Monkey D. Luffy's unstoppable 
 ## 📊 GitHub Stats
 
 <!-- Generated daily by .github/workflows/metrics.yml into the "metrics" branch -->
-<img src="https://raw.githubusercontent.com/devtdlv/devtdlv/metrics/github-metrics.svg" alt="GitHub activity, languages and contributions" />
+<p>
+  <img width="49%" src="https://raw.githubusercontent.com/devtdlv/devtdlv/metrics/github-metrics.svg" alt="GitHub profile, activity and repositories" />
+  <img width="49%" src="https://raw.githubusercontent.com/devtdlv/devtdlv/metrics/github-metrics-langs.svg" alt="Most used languages and contributions calendar" />
+</p>
