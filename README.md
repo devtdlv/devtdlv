@@ -22,7 +22,7 @@ Somewhere between Tony Stark's overconfidence and Monkey D. Luffy's unstoppable 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat&logo=inertia&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=FFDD54)
 ![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=flat&logo=qt&logoColor=white)
@@ -43,7 +43,7 @@ Somewhere between Tony Stark's overconfidence and Monkey D. Luffy's unstoppable 
 | [**Alias**](https://github.com/devtdlv/alias) | URL shortening and link analytics with custom aliases, click tracking, and QR codes | Next.js · TypeScript · PostgreSQL |
 | [**ReStock**](https://github.com/devtdlv/restock) | Inventory management with stock tracking, purchase orders, reporting, and audit logs | Laravel 12 · Livewire 4 · PHP |
 | [**Junction**](https://github.com/devtdlv/junction) | Local-first Windows desktop toolkit for folder scanning, safe file organization, duplicate detection, and bulk renaming *(in active development)* | Python · PySide6 · SQLite |
-| [**Inspect**](https://github.com/devtdlv/inspect) | Self-hosted API monitoring and observability for HTTP/HTTPS endpoints *(in active development)* | NestJS · React · TypeScript · MySQL · Prisma |
+| [**Insight**](https://github.com/devtdlv/insight) | Privacy-first product analytics with multi-tenant workspaces, event tracking via a JavaScript SDK, and project dashboards *(in active development)* | Laravel 12 · React · TypeScript · Inertia.js · MariaDB |
 
 ## 📊 GitHub Stats
 
