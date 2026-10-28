@@ -39,12 +39,12 @@ Somewhere between Tony Stark's overconfidence and Monkey D. Luffy's unstoppable 
 
 | Project | What it does | Built with |
 |---|---|---|
-| [**Milestone**](https://github.com/devtdlv/milestone) | Multi-tenant project management with Kanban boards, task tracking, and analytics | Next.js · TypeScript · PostgreSQL · Prisma |
-| [**Alias**](https://github.com/devtdlv/alias) | URL shortening and link analytics with custom aliases, click tracking, and QR codes | Next.js · TypeScript · PostgreSQL |
-| [**ReStock**](https://github.com/devtdlv/restock) | Inventory management with stock tracking, purchase orders, reporting, and audit logs | Laravel 12 · Livewire 4 · PHP |
-| [**Junction**](https://github.com/devtdlv/junction) | Local-first Windows desktop toolkit for folder scanning, safe file organization, duplicate detection, and bulk renaming *(in active development)* | Python · PySide6 · SQLite |
-| [**Insight**](https://github.com/devtdlv/insight) | Privacy-first product analytics SaaS to track events, analyze user activity, and explore project insights through a modern dashboard *(in active development)* | Laravel 12 · React · TypeScript · Inertia.js · MariaDB |
-| [**Equity**](https://github.com/devtdlv/equity) | Personal finance and cash-flow management to track accounts, understand spending, and plan ahead *(in active development)* | Laravel 12 · React · TypeScript · Inertia.js · MariaDB |
+| [**M**ilestone](https://github.com/devtdlv/milestone) | Multi-tenant project management with Kanban boards, task tracking, and analytics | Next.js · TypeScript · PostgreSQL · Prisma |
+| [**A**lias](https://github.com/devtdlv/alias) | URL shortening and link analytics with custom aliases, click tracking, and QR codes | Next.js · TypeScript · PostgreSQL |
+| [**R**estock](https://github.com/devtdlv/restock) | Inventory management with stock tracking, purchase orders, reporting, and audit logs | Laravel 12 · Livewire 4 · PHP |
+| [**J**unction](https://github.com/devtdlv/junction) | Local-first Windows desktop toolkit for folder scanning, safe file organization, duplicate detection, and bulk renaming *(in active development)* | Python · PySide6 · SQLite |
+| [**I**nsight](https://github.com/devtdlv/insight) | Privacy-first product analytics SaaS to track events, analyze user activity, and explore project insights through a modern dashboard *(in active development)* | Laravel 12 · React · TypeScript · Inertia.js · MariaDB |
+| [**E**quity](https://github.com/devtdlv/equity) | Personal finance and cash-flow management to track accounts, understand spending, and plan ahead *(in active development)* | Laravel 12 · React · TypeScript · Inertia.js · MariaDB |
 
 ## 📊 GitHub Stats
 
