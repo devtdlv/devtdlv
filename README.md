@@ -7,7 +7,7 @@
 
 Somewhere between Tony Stark's overconfidence and Monkey D. Luffy's unstoppable optimism, you'll find me, turning ideas into interfaces, bugs into lessons, and caffeine into questionable decisions. I believe good software should feel smooth, fast, and just a little bit magical.
 
-- 🔭 Building SaaS and business tools with **Laravel, Livewire and Next.js**
+- 🔭 Building web apps and business tools with **Laravel, Livewire and Next.js**
 - 🌱 Leveling up my **TypeScript** and backend architecture
 - 💬 Ask me about clean architecture, weird bugs, Marvel theories, or why Sanji is criminally underrated
 
